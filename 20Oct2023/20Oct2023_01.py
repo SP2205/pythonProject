@@ -8,5 +8,7 @@ b= int(input("Enter value of b : \n"))
 
 print(sum(a,b))
 
+print()
+
 print(sum(45,10))
 
